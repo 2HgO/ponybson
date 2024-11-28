@@ -1,0 +1,15 @@
+{
+  "packages": [
+    "ponybson"
+  ],
+  "deps": [],
+  "info": {
+    "description": "Package to generate and parse BSON data",
+    "homepage": "https://github.com/2HgO/ponybson",
+    "license": "MIT",
+    "documentation_url": "",
+    "version": "0.0.1",
+    "name": "ponybson",
+    "author": "Oghogho Odemwingie <odemwingieog@gmail.com>"
+  }
+}
